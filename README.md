@@ -17,3 +17,5 @@ Step 5: Close Applicaiton when no longer interested.
 Thank you for using my application.
 
 Please note - BitBucket App being recycled for assignment 03 testing purposes.
+
+This last note is an update to confirm a change to readme.md via online file.
