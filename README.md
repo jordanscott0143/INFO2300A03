@@ -1,6 +1,7 @@
 # INFO2300A03
 
 
+
 How to Run A3 - GitHub Testing app.
 
 Step 1: Download project file from bit bucket by cloning repo.
@@ -12,3 +13,5 @@ Step 3: Once Visual Studio opens project file, click the Play/Start A3 - GitHub 
 Step 4: Enter First Name when promped in Console. Press Enter to see results.
 
 Step 5: Close Applicaiton when no longer interested. 
+
+Thank you for using my application.
